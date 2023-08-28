@@ -6,4 +6,6 @@ In that project was utilized collaborative filtering, where users with similar t
 
 If you're interested in learning more about this project, you can visit [DSwithBappy's YouTube channel](https://www.youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07).
  
-Additionally, the application can be found in my [Streamlit repository].
+Additionally, the application can be found in my [Streamlit repository](https://romario-book-recommendation.streamlit.app/).
+
+![Stremlit](book.gif)
